@@ -1,0 +1,17 @@
+INICIO 
+
+    LEER Peso 
+    LEER PesoIdeal
+
+
+
+    PARA  int semanas=0, Peso>PesoIdeal, semanas++ 
+        Peso--
+        var Aux_1=semanas 
+
+
+    FIN PARA 
+
+    ESCRIBE Aux_1
+
+FIN 

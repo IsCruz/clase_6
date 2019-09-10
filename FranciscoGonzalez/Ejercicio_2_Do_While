@@ -1,0 +1,16 @@
+INICIO 
+    LEER Peso 
+    LEER PesoIdeal
+    var Semanas=0
+
+    HACER 
+      Semanas++
+      Peso--
+      var Aux_1=Semanas
+
+    MIENTRAS Peso>PesoIdeal
+
+    FIN MIENTRAS
+
+    ESCRIBE Semanas
+FIN

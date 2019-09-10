@@ -1,0 +1,13 @@
+INICIO 
+
+    LEER Numero_Mayor 
+    LEER Numero_Menor
+
+    PARA contador=Numero_Mayor, Numero_Menor<Numero_Mayor, Numero_Mayor --
+
+    VAR AUX=Numero_Mayor 
+    ESCRIBE Numero_Mayor
+
+    FIN PARA 
+
+FIN 

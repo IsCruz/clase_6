@@ -1,0 +1,17 @@
+INICIO 
+    LEER Numero_Mayor 
+    LEER Numero_Menor 
+
+
+    HACER 
+    Numero_Mayor --
+        var Aux_1=Numero_Mayor
+    ESCRIBE Numero_Mayor
+    
+    
+    MIENTRAS Numero_Menor<Numero_Mayor
+    FIN MIENTRAS
+    
+ ESCRIBE Aux_1
+    
+FIN
